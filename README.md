@@ -37,6 +37,9 @@ For example let's say I wanted to search for a triangle ship in Pasadena Califor
 
 And just like that we have a hit! this gives our users many different opportunities to find out where and when, UFOs are being spotted. 
 
+![image](https://user-images.githubusercontent.com/93295751/150651005-b78a0ebe-810b-4e99-9bd7-4b1903d8a791.png)
+
+
 #**Summary**
 
 Drawback - The user doesnt have a ready list of city names where UFO have been sighted, so when a city name is typed, say for instance they add Kansas City, nothing populates. Maybe the filter can have a drop down menu function rather, which will list the names of the cities where UFO have been sighted.  Additionally, the table can also contain another column with a link to the article or an image box, to make it more insightful experience. I also think it would be benficial to use a different background for the list of events and perhaps collapse them into a page slection format instead of having them all on one page.
