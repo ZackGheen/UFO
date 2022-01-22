@@ -6,18 +6,18 @@ https://zackgheen.github.io/UFO/Index.html
 
 ##Technologies used
 
-JavaScript ES6+ and HTML to write background code in VS Code editor.
-GitPages and local server to display and host dynamic webpage.
+**JavaScript ES6+** and **HTML** to write background code in VS Code editor.
+**GitPages** and local server to display and host dynamic webpage.
 
 The overall goal of this analysis is for us to build a webpage that has a dynamic table which will provide in-depth analysis of UFO Sightings by allowing users to filter for multiple criteria(/s) at the same time.
 
 The criteria that can the webpage can filter by are the following:
 
-- Date
-- City
-- State
-- Country
-- Shape
+- **Date**
+- **City**
+- **State**
+- **Country**
+- **Shape**
 
 #**Results of Analysis**
 
